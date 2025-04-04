@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Firebase for authentication and database services
 - SwiftUI for modern UI components
-- The iOS development community for inspiration and support 
+- The iOS development community for inspiration and support # AppEShop
