@@ -153,12 +153,8 @@ The app uses a navigation controller to move between different screens:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
 - Firebase for authentication and database services
-- SwiftUI for modern UI components
 - The iOS development community for inspiration and support # AppEShop
